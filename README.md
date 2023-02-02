@@ -1,31 +1,31 @@
-#Automation-Challenge
+# Automation-Challenge
 This is a Selenium Java TestNG Maven framework that automates a UI Test. This project uses page object model design principle for easy readability and code maintenance.
 
-##Built With
+## Built With
 Selenium Webdriver
 Java
 TestNG
-##Automated BASEURL
+## Automated BASEURL
 https://www-dev-l82lynmk07.deel.training/login
-Getting Started
+## Getting Started
 ** The test automates the SignUp of a contractor on the portal.
-##Prerequisites
+## Prerequisites
 Get JDK version 8 and above installed on your local
 Set JAVA_HOME in environment variables
 Have an IDE installed on your computer Eclipse IDE to be able to setup framwork and run tests.
-##Setup
+## Setup
 Download the folders from the github repository
 Import the folders with the title 'AutomationTaskDeel' into your eclipse
 Run the class title 'SetUp.java'
 Framework has not be completed.
 
-##Author
+## Author
 👤 Collins Mba
 
 GitHub: @collinsmba
 LinkedIn:@collinsmba
-##🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-##Show your support
+## Show your support
 Give a ⭐️ if you like this project!
