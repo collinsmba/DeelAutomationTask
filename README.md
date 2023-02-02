@@ -16,7 +16,7 @@ Have an IDE installed on your computer Eclipse IDE to be able to setup framwork 
 ## Setup
 Download the folders from the github repository
 Import the folders with the title 'AutomationTaskDeel' into your eclipse
-Run the class title 'SetUp.java'
+Run the class title 'SetUp.java'.
 Framework has not be completed.
 
 ## Author
